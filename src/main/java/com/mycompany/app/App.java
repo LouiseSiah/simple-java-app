@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Change to trigger Jenkin Build!");
+        System.out.println("Change to for WebHook Jenkin Build!");
     }
 
     public String getMessage() {
